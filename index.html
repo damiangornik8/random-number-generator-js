@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title> Random Number Generator </title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+
+    <link rel="canonical" href="{{ config.extra.live_base_url }}{{ current_path }}">
+  </head>
+  <body>
+
+
+    <div class="page">
+      <div class="content">
+
+      <div class="sidebar"> 
+      </div>
+
+
+      <div class="mainSection"> 
+
+      <div class="title" > Get a Random Number </div>
+      <div class="inputBoxDescr"> Between: </div>
+      <div class="inputBox" > <input id="minNum" type="number" name="min-number" class="input" value=1> </div>
+
+      <div class="inputBoxDescr"> And: </div>
+      <div class="inputBox" > <input id="maxNum" type="number" name="max-number" class="input" value=100> </div>
+
+      <div> <button id="generateNumBtn" class="generateRandomNumBtn"> Generate </button>
+      </div>
+
+      <div id="generatedNumTitle" class="generatedNumTitle">   </div>
+      <span id="generatedNumDisplay" class="generatedNum"> </span>
+
+      
+      </div>
+
+      <div class="sidebar"> 
+      </div>
+      </div>
+    </div>
+
+
+
+
+    <script src="script.js"></script>
+  </body>
+</html>
