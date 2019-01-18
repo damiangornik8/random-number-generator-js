@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://lucid-dijkstra-e02834.netlify.com/* http://randomthat.com/:splat 301!
