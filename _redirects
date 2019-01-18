@@ -1,2 +1,2 @@
 # Redirect default Netlify subdomain to primary domain
-https://lucid-dijkstra-e02834.netlify.com/* https://www.codesections.com/:splat 301!
+https://lucid-dijkstra-e02834.netlify.com/* https://lucid-dijkstra-e02834.netlify.com/:splat 301!
