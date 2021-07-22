@@ -10,7 +10,7 @@
 `Rannum` is a random number generator tool. It generates a random number within a predefined range and displays it afterwards. <br />
 
 - Built on the top of vanilla `JavaScript (ES6 Standard)` and `CSS3`
-- Modular to fit different use cases: from the private person working with `small` sets to business professionals operating on the `million of numbers`
+- Modular to fit different use cases: from the private person working with `small sets` to business professionals operating on the `million of numbers`
 - Modern and mobile responsive design
 
 
