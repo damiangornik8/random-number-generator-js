@@ -64,4 +64,4 @@ generateBtn.addEventListener('click', () => {
 ## Contact Us
 ---
 ### Have any questions? We’d love to hear from you! 
-`rannumsoftware@gmail.com`
+[rannumsoftware@gmail.com](rannumsoftware@gmail.com) 
